@@ -1,0 +1,4 @@
+/home/aravind/AndroidStudioProjects/15-puzzle/seeSharp/build/intermediates/classes/release
+/home/aravind/AndroidStudioProjects/15-puzzle/seeSharp/build/intermediates/pre-dexed/release/jtar-1.0.2-9682a243b36382854aab551e569c6c7195731524.jar
+/home/aravind/AndroidStudioProjects/15-puzzle/seeSharp/build/intermediates/pre-dexed/release/microsoft-translator-java-api-0.6.2-jar-with-dependencies-9aad09e5ef77beb9e36673740e5e5f6ca4e1b643.jar
+/home/aravind/AndroidStudioProjects/15-puzzle/seeSharp/build/intermediates/pre-dexed/release/classes-3833c1959b7897a0a5e607d5e7a66e048a3be91b.jar
